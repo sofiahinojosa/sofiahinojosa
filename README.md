@@ -9,10 +9,14 @@
 
 <!-- align="right" -->
 
+<!--
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiahinojosa&layout=compact)
+-->
 
+<!--
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
+-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/sofiahinojosa/count.svg) -->
