@@ -1,6 +1,6 @@
 ## Hi there, my name is Sofia :D 👋
 
-#### I am a web developer. My coding journey started in quarantine about a year ago with html, css, and js. Currently, I am working with Angular. I like working with React too :) 
+#### I am a 14 year old web developer from Mexico. My coding journey started in quarantine about a year ago with html, css, and js. Currently, I am learning Angular. I like working with React too :) 
 
 ##### she/her
 
